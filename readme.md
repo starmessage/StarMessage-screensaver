@@ -5,8 +5,10 @@ https://github.com/starmessage/StarMessage-screensaver
 
 - Website: https://www.StarMessageSoftware.com/moonscreensaver
 
-Free (Lite edition)
+## Download the free (Lite edition)
+- Download the [Windows screensaver](https://github.com/starmessage/StarMessage-screensaver/blob/master/Windows%20screensaver%20download/starmessage-setup.exe) edition.
 
+## Screenshot
 [![](https://www.starmessagesoftware.com/mystyle/images/screensaver-mac-screenshot-1-small.png)](https://www.starmessagesoftware.com/moonscreensaver)
 
 ## Features
