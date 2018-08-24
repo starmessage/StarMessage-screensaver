@@ -5,4 +5,4 @@
 - Website: https://www.StarMessageSoftware.com/moonscreensaver
 
 From here you can download the free (Lite edition) of the screensaver for Windows.  
-- Download the [Windows screensaver](starmessage-setup.exe) edition.
+- Download the [Windows screensaver](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-setup.exe) edition.
