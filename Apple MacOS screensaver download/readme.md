@@ -4,5 +4,5 @@
 
 - Website: https://www.StarMessageSoftware.com/moonscreensaver
 
-From here you can download the free (Lite edition) for MacOS.
+From here you can download the free (Lite edition) of the screensaver for MacOS.
 Alternatively, this is the [Apple store screensaver](https://www.starmessagesoftware.com/moonscreensaver/macos-screen-saver-on-mac-apple-store.html) edition available
