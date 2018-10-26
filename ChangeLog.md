@@ -14,3 +14,21 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Moon disc illumination bug right after a full moon day.
+
+
+## [5.7.4]
+
+### Added
+- [Digital clock](https://www.starmessagesoftware.com/moonscreensaver/digital-clock-screensaver-v.5.7.4) functionality.  
+You can use StarMessage as a digital clock screensaver.
+
+
+## [5.7.4]
+### Changed
+- Windows only version: Setup improvements.
+
+## [5.7.1]
+### Changed
+
+- Better [moon phase accuracy of the illuminated moon image](https://www.starmessagesoftware.com/news/screensaver-v5.7.1-delay-computer-sleep-mode).
+- More options for the "[keep awake](https://www.starmessagesoftware.com/news/screensaver-v5.7.1-delay-computer-sleep-mode)" delay durations at the power settings that [prevent the computer (Mac or PC) from going to sleep mode](https://www.starmessagesoftware.com/moonscreensaver/how-to-prevent-computer-from-sleep.html).
