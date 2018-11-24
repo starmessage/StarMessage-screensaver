@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.7.7] - (unpublished)
+
+### Fixed
+
+- The "keep the computer awake", power settings of the screensaver stopped working on 5.7.6 for MacOS.
+This is now fixed.
+
 ## [5.7.6] - 2018-10-21
 
 ### Changed
