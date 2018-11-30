@@ -10,6 +10,11 @@ All notable changes to this project will be documented in this file.
 - The "keep the computer awake", power settings of the screensaver stopped working on 5.7.6 for MacOS.
 This is now fixed.
 
+### Changed
+
+- Better start-up effect of the digital clock
+- Internal improvements
+
 ## [5.7.6] - 2018-10-21
 
 ### Changed
