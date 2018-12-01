@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
-## [5.7.7] - (unpublished)
+## [5.7.7] - 2018-12-01 (MacOS edition)
 
 ### Fixed
 
@@ -12,7 +12,7 @@ This is now fixed.
 
 ### Changed
 
-- Better start-up effect of the digital clock
+- Better start-up effect of the screensaver's digital clock
 - Internal improvements
 
 ## [5.7.6] - 2018-10-21
