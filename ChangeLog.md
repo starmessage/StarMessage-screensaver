@@ -7,8 +7,10 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- The "keep the computer awake", power settings of the screensaver stopped working on 5.7.6 for MacOS.
-This is now fixed.
+- The "keep the computer awake", power settings of the screensaver had stopped working on 5.7.6 for MacOS. They are now fixed.
+
+- On MacOS, when installing the screensaver, a warning was appearing that the Mac screensaver "can't be opened because it is from an unidentified developer".
+The digital signature of the screensaver was fixed and the warning stopped appearing. 
 
 ### Changed
 
