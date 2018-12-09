@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- MacOS 10.14 Mojave compatibility
+- [MacOS 10.14 Mojave screensaver compatibility, fixed](https://www.starmessagesoftware.com/news/macos-1014-mojave-screensaver-problem-solved)
 
 
 ## [5.7.7] - 2018-12-01 (MacOS edition)
