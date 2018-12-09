@@ -53,3 +53,15 @@ You can use StarMessage as a digital clock screensaver.
 
 - Better [moon phase accuracy of the illuminated moon image](https://www.starmessagesoftware.com/news/screensaver-v5.7.1-delay-computer-sleep-mode).
 - More options for the "[keep awake](https://www.starmessagesoftware.com/news/screensaver-v5.7.1-delay-computer-sleep-mode)" delay durations at the power settings that [prevent the computer (Mac or PC) from going to sleep mode](https://www.starmessagesoftware.com/moonscreensaver/how-to-prevent-computer-from-sleep.html).
+
+## [5.7]
+### Fixed
+
+- Fixed the [2018 moon phases](https://www.starmessagesoftware.com/news/2018-moon-phases-bug-moon-screensaver) bug.
+
+## [5.6]
+### Added
+
+- More [love quotes](https://www.starmessagesoftware.com/moonscreensaver/best-quotes.html#love-quotes)
+- Telemetry consent
+- In the Windows screensaver edition, added compatibility for Windows XP
