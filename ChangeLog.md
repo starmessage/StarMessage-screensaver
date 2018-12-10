@@ -65,3 +65,52 @@ You can use StarMessage as a digital clock screensaver.
 - More [love quotes](https://www.starmessagesoftware.com/moonscreensaver/best-quotes.html#love-quotes)
 - Telemetry consent
 - In the Windows screensaver edition, added compatibility for Windows XP
+
+## [5.5.9]
+	
+### Fixed:
+- Screen savers' log file occasionally saved on the desktop.
+- Better notification messages for the past new moon and full moon exact time.
+
+## [5.5.6], [5.5.7]
+
+### Changed: 
+- Additional quotes.
+- Better illumination of the new moon phase.
+- Improved [software activation and registration](https://www.starmessagesoftware.com/libsharewarecpp).
+- Better launch options for Mac App screensaver ([Apple Mac Store screensaver](https://www.starmessagesoftware.com/moonscreensaver/macos-screen-saver-on-mac-apple-store.html))
+
+## [5.5.0]
+
+### Changed: 
+- The free screensaver edition can be activated to a full edition by entering an activation code. No need to download and install the full edition as a separate screen saver.
+
+## [5.4.4]
+
+### Changed: 
+- The [shooting stars](https://www.starmessagesoftware.com/moonscreensaver#falling-stars) fall more frequently in the commercial edition
+- The sound starts to play after a small delay to improve the usability during the screensaver's launch
+- (Windows only) Users can now hide the moon and/or the various information about the moon (e.g. upcoming moon dates, illumination per cent, etc.)
+
+## [5.4.3]
+
+### Added: 
+- Added shooting stars. ([make a wish](https://www.starmessagesoftware.com/moonscreensaver/how-to-make-a-wish-come-true.html) if you are fast enough)
+
+### Changed: 
+- The screensaver quotes are now moving on the screen
+
+## [5.2.4] 	
+
+### Added: 
+- Users can add their own quotes to the existing list of famous, funny, romantic quotes. (Mac OS X edition only)
+
+## [5.2.2]
+
+### Added: 
+- new feature: Famous quotes of love, humor, wisdom, inspiring quotes, etc.
+
+## [5.2]
+
+### Added: 
+- Added relaxing sounds of nature
