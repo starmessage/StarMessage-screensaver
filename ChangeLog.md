@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.7.9] - 2018-12-14 (MacOS edition)
+
+### Fixed
+
+- [MacOS 10.14 Mojave screensaver issues with text sprites (Clock, quotes, moon information, marque text line), fixed](https://www.starmessagesoftware.com/news/macos-1014-mojave-screensaver-problem-solved)
+
+
 ## [5.7.8] - 2018-12-09 (MacOS edition)
 
 ### Fixed
