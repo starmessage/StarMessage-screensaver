@@ -3,6 +3,19 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.8.0] - 2019-01-15
+
+### Fixed
+
+- The on-screen clock does not show the correct time in multiple monitors
+
+### Added
+	Parameter to control the time the quotes remain on screen.  
+    Ini file entry: quoteDurationInSec  
+    Example to set a 10 sec duration:   
+    quoteDurationInSec=10
+
+
 ## [5.7.9] - 2018-12-14 (MacOS edition)
 
 ### Fixed
