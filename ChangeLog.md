@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - Parameter to control the time the quotes remain on screen.  
-Ini file entry: quoteDurationInSec=X
+Ini file entry: quoteDurationInSec=X  
 X can be a number from 4 to 30  
 Example to set a 10 sec duration:   
 quoteDurationInSec=10
