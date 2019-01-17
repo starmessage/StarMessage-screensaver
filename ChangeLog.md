@@ -3,6 +3,17 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+
+## [5.8.1] - 2019-01-17
+
+### Fixed
+
+- The on-screen clock does not show the correct time in multiple monitors under MacOS
+
+### Changed
+
+- Internal improvements
+
 ## [5.8.0] - 2019-01-15
 
 ### Fixed
