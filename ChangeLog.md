@@ -21,10 +21,11 @@ All notable changes to this project will be documented in this file.
 - The on-screen clock does not show the correct time in multiple monitors
 
 ### Added
-	Parameter to control the time the quotes remain on screen.  
-    Ini file entry: quoteDurationInSec  
-    Example to set a 10 sec duration:   
-    quoteDurationInSec=10
+- Parameter to control the time the quotes remain on screen.  
+Ini file entry: quoteDurationInSec=X  
+X can be a number from 4 to 30  
+Example to set a 10 sec duration:   
+quoteDurationInSec=10
 
 
 ## [5.7.9] - 2018-12-14 (MacOS edition)
