@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.8.2] - 2019-02-25
+
+### Changed
+
+- Internal improvements for MacOS and for retina displays
 
 ## [5.8.1] - 2019-01-17
 
