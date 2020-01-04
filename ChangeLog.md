@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.8.6] - 2020-01-04
+
+### Fixed
+- Moon phase dates for 2020 (dates of full moon and new moon updated)
+
 ## [5.8.3] - 2019-10-29
 
 ### Fixed
