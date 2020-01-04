@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.8.3] - 2019-10-29
+
+### Fixed
+
+- MacOS Catalina compatibility with the screensaver
+
 ## [5.8.2] - 2019-02-25
 
 ### Changed
