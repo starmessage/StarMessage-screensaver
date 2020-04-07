@@ -25,3 +25,6 @@ https://github.com/starmessage/StarMessage-screensaver
 - Windows 10 screensaver compatible (and all older Windows versions, down to WindowsXP).
 - MacOS screensaver compatible.
 - [Apple store screensaver](https://www.starmessagesoftware.com/moonscreensaver/macos-screen-saver-on-mac-apple-store.html) edition is also available.
+
+[![HitCount](http://hits.dwyl.io/starmessage/badges.svg)](https://www.starmessagesoftware.com/)
+[![Analytics](https://ga-beacon.appspot.com/UA-385839-11/github.com/starmessage/StarMessage-screensaver/README.md)](https://GitHub.com/starmessage/StarMessage-screensaver)
