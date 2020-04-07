@@ -8,4 +8,4 @@ From here you can download the free (Lite edition) of the screensaver for Window
 - [Download](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-setup.exe) the Windows edition of the screensaver.
 
 [![HitCount](http://hits.dwyl.io/starmessage/badges.svg)](https://www.starmessagesoftware.com/)
-[![Analytics](https://ga-beacon.appspot.com/UA-385839-11/github.com/starmessage/StarMessage-screensaver/Windows%20MacOS%20screensaver%20download/readme.md)](https://GitHub.com/starmessage/StarMessage-screensaver/Windows%20MacOS%20screensaver%20download)
+[![Analytics](https://ga-beacon.appspot.com/UA-385839-11/github.com/starmessage/StarMessage-screensaver/Windows%20screensaver%20download/readme.md)](https://GitHub.com/starmessage/StarMessage-screensaver/Windows%20screensaver%20download)
