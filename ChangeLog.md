@@ -5,7 +5,7 @@ Read more on the [Screensaver website](https://www.starmessagesoftware.com/moons
 ## [5.8.7] - (unpublished)
 ### Added
 - Hot corners (for Windows as MacOS already has support for hot corners). Place the mouse in one of the selected corners of the screen to prevent the screensaver from starting (e.g. when you watch a long video)
-### Fixed
+### Changed
 - Internal improvements
 
 ## [5.8.6] - 2020-01-04
