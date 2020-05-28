@@ -7,6 +7,7 @@ Read more on the [Screensaver website](https://www.starmessagesoftware.com/moons
 - Hot corners (for Windows as MacOS already has support for hot corners). Place the mouse in one of the selected corners of the screen to prevent the screensaver from starting (e.g. when you watch a long video)
 ### Changed
 - Internal improvements
+- Better support for multiple monitors on Windows. E.g. the moon image is not split between two monitors.
 
 ## [5.8.6] - 2020-01-04
 
