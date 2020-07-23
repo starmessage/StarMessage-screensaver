@@ -2,7 +2,11 @@
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
-## [5.8.7] - (unpublished)
+## [5.8.8] - 2020-07-23
+### Fixed
+- MacOS digital signing issues made the program appear as from an unknown developer.
+
+## [5.8.7] - 2020-06-02
 ### Added
 - Hot corners (for Windows as MacOS already has support for hot corners). Place the mouse in one of the selected corners of the screen to prevent the screensaver from starting (e.g. when you watch a long video)
 ### Changed
