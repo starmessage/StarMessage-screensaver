@@ -3,8 +3,17 @@ All notable changes to this project will be documented in this file.
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
 ## [5.8.9] - (unpublished)
-### To be fixed
-- Under MacOS Catalina, the "Blue gradient" sky background make the screensaver very slow, and it appears as stuck. You must select a different sky background to avoid this.
+### Fixed
+- Under MacOS Catalina, the "Blue gradient" sky background make the Mac screensaver very slow, and it appears as stuck. You must select a different sky background to avoid this.
+
+- The StarMessage settings (your messages, selected sounds, sky backgrounds, moon information, etc) were saved in a file named "no AppName cpccSettings error no.7511.ini" instead of the correct file name "StarMessage screensaver.ini". If you update from an earlier version you might want to rename 
+```
+"no AppName cpccSettings error no.7511.ini"
+```
+to
+```
+"StarMessage screensaver.ini"
+```
 
 ## [5.8.8] - 2020-07-23
 ### Fixed
