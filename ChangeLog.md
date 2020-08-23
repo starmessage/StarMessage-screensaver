@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.8.9] - (unpublished)
+### To be fixed
+- Under MacOS Catalina, the "Blue gradient" sky background make the screensaver very slow, and it appears as stuck. You must select a different sky background to avoid this.
+
 ## [5.8.8] - 2020-07-23
 ### Fixed
 - MacOS digital signing issues made the program appear as from an unknown developer.
