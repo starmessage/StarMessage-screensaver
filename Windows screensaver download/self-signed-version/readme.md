@@ -5,7 +5,7 @@
 - Website: https://www.StarMessageSoftware.com/moonscreensaver
 
 From here you can download the free (Lite edition) of the screensaver for Windows.  
-- [Download](./starmessage-setup.exe) the Windows edition of the screensaver.  
+- [Download](/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/self-signed-version/starmessage-setup.exe) the Windows edition of the screensaver.  
 Sha256 hash: FBAD60C5B633FE637CC84AD11C87F5ACB504D448C56B687C3AD85A0E7A524043
 - To calculate/verify the Sha256 hash yourself, you can use any free online tool like https://hash.online-convert.com/sha256-generator
 
