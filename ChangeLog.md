@@ -2,7 +2,12 @@
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
-## [5.8.9] - (unpublished)
+## [5.8.9] - (unpublished))
+### Fixed
+- Under Macs and Macbooks, slow draw of the night sky background (gradient blue and starry sky).
+- Under Macs and Macbooks, a diagnostic file cpccTesting.txt was saved on the desktop.
+
+## [5.8.9] - 2020-08-23
 ### Fixed
 - Under MacOS Catalina, the "Blue gradient" sky background make the Mac screensaver very slow, and it appears as stuck. You must select a different sky background to avoid this.
 
