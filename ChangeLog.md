@@ -2,13 +2,18 @@
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
-## [5.8.9] - (unpublished))
+## [5.9.3] - 2020-07-23
 ### Fixed
-- Under Macs and Macbooks, slow draw of the night sky background (gradient blue and starry sky).
-- Under Macs and Macbooks, a diagnostic file cpccTesting.txt was saved on the desktop.
+- Windows:digitally signed screensaver and screensaver setup, to avoid being erroneously flagged by some antivirus software as a possible threat ([false positive](https://www.starmessagesoftware.com/blog/report-submit-false-positive-antivirus-software)).
+
 
 ## [5.8.9] - 2020-08-23
 ### Fixed
+
+- Under Macs and Macbooks, slow draw of the night sky background (gradient blue and starry sky).
+
+- Under Macs and Macbooks, a diagnostic file cpccTesting.txt was saved on the desktop.
+
 - Under MacOS Catalina, the "Blue gradient" sky background make the Mac screensaver very slow, and it appears as stuck. You must select a different sky background to avoid this.
 
 - The StarMessage settings (your messages, selected sounds, sky backgrounds, moon information, etc) were saved in a file named "no AppName cpccSettings error no.7511.ini" instead of the correct file name "StarMessage screensaver.ini". If you update from an earlier version you might want to rename 
