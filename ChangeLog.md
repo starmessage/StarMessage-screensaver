@@ -4,7 +4,7 @@ Read more on the [Screensaver website](https://www.starmessagesoftware.com/moons
 
 ## [5.9.3] - 2020-07-23
 ### Fixed
-- Windows:digitally signed screensaver and screensaver setup, to avoid being erroneously flagged by some antivirus software as a possible threat ([false positive](https://www.starmessagesoftware.com/blog/report-submit-false-positive-antivirus-software)).
+- Windows: digitally signed screensaver and screensaver setup, to avoid being erroneously flagged by some antivirus software as a possible threat ([false positive](https://www.starmessagesoftware.com/blog/report-submit-false-positive-antivirus-software)).
 
 
 ## [5.8.9] - 2020-08-23
