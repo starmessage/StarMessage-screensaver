@@ -1,0 +1,54 @@
+StarMessage screensaver - End-User License Agreement (EULA)
+-----------------------------------------------------------
+This End-User License Agreement (EULA) is a legal agreement between you (either an individual or 
+a single entity) and the mentioned author (StarMessageSoftware.COM) of this Software for the 
+software product identified above, which includes computer software and may include associated media,
+and online or electronic documentation ("SOFTWARE PRODUCT").
+
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bounded by the terms 
+of  this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+The SOFTWARE PRODUCT is distributed as "Shareware". There is a free trial of 10 days starting on the 
+date of initial installation, after which the user must either purchase a license or uninstall the 
+SOFTWARE PRODUCT.
+
+3RD PARTY SOFTWARE / PUP.
+The SOFTWARE PRODUCT does not contain nor is bundled with any 3rd party software.
+The SOFTWARE PRODUCT does not contain advertising of 3rd party services, products or websites.
+
+PERSONAL DATA AND PRIVACY.
+The SOFTWARE PRODUCT does not collect neither uses any personal data from the end-user's computer.
+The activation of the full version is done with the use of simple activation codes that do not
+contain any personal information.
+
+APPLICATION TELEMETRY.
+The SOFTWARE PRODUCT uses application telemetry to provide the AUTHOR with aggregated anonymised 
+usage data. The data are not shared with others and their purpose is to guide the improvement 
+of the SOFTWARE PRODUCT based on the most used features.
+The user can switch OFF or ON the telemetry functionality.
+
+DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the 
+extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+TERMINATION.
+Without prejudice to any other rights, the Author of this Software may terminate this EULA if you fail to  
+comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the  
+SOFTWARE PRODUCT and all of its component parts.
+
+COPYRIGHT.
+All title and copyrights in and to the SOFTWARE PRODUCT and any copies of the SOFTWARE PRODUCT are owned
+by the Author of this Software. The SOFTWARE PRODUCT is protected by copyright laws and international 
+treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material. 
+
+DISCLAIMER OF WARRANTY.
+This software and the accompanying files are given "as is" and without any warranties as of their proper
+operation or their safe coexistence with other software or data. The moon phase calculation algorithm is
+an approximation and cannot be used by religious teams or individuals to program their activities.
+NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED.
+
+NO LIABILITY FOR DAMAGES.
+In no event shall the Author of this Software be liable for any special, consequential, incidental or  
+indirect damages whatsoever (including, without limitation, damages for loss of business profits, business  
+interruption, loss of business information, or any other pecuniary loss) arising out of the use of or  
+inability to use this product, even if the Author of this Software is aware of the possibility of such  
+damages and known defects.
