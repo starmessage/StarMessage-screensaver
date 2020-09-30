@@ -6,9 +6,11 @@ https://github.com/starmessage/StarMessage-screensaver
 - Website: https://www.StarMessageSoftware.com/moonscreensaver
 
 ## Download the free (Lite edition)
-- Download the [Windows screensaver](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-setup.exe) setup.
-- If you cannot run the normal automated setup, you can also simply extract the screensaver files from the portable zip to the SysWOW64 folder. See instructions below.
-- Download the [MacOS screensaver](https://github.com/starmessage/StarMessage-screensaver/raw/master/Apple%20MacOS%20screensaver%20download/starmessage%20screensaver.dmg) DMG image.
+- On Windows:
+    - Download the [Windows screensaver](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-setup.exe) setup.
+    - If you cannot run the normal automated setup, you can also simply extract the screensaver files from the [portable zip](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-portable.zip) to the SysWOW64 folder. See instructions below.
+- On MacOS (Mac, Macbook)
+    - Download the [MacOS screensaver](https://github.com/starmessage/StarMessage-screensaver/raw/master/Apple%20MacOS%20screensaver%20download/starmessage%20screensaver.dmg) DMG image.
 
 ## Screenshot
 [![](https://www.starmessagesoftware.com/mystyle/images/screensaver-mac-screenshot-1-small.png)](https://www.starmessagesoftware.com/moonscreensaver)
