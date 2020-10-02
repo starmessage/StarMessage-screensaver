@@ -31,7 +31,7 @@ https://github.com/starmessage/StarMessage-screensaver
 
 ## For Windows users: How to manually install the screensaver files instead of using the automated setup.
 1. Like the case of the screensaver setup package, to follow this procedure you still need to have administrator permissions or know the admin's password.
-2. All the files of StarMessage are contained in the zip file "starmessage-portable.zip". Download it from [here](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-portable.zip)
+2. All the files of StarMessage are contained in the zip file "starmessage-portable.zip". Download it from [here](https://github.com/starmessage/StarMessage-screensaver/raw/master/Windows%20screensaver%20download/starmessage-portable.zip).
 3. Extract it on a new folder on the desktop.
 
 4. Next, You will now need to copy the files to the "SysWOW64" or the "System32" folder of your computer.  
