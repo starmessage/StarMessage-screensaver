@@ -2,7 +2,11 @@
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
-## [5.9.3] - 2020-07-23
+## [5.9.4] - 2020-10-02
+### Changed
+- Windows: minor modifications in the digitally signed screensaver and in the setup
+
+## [5.9.3] - 2020-09-23
 ### Fixed
 - Windows: digitally signed screensaver and screensaver setup, to avoid being erroneously flagged by some antivirus software as a possible threat ([false positive](https://www.starmessagesoftware.com/blog/report-submit-false-positive-antivirus-software)).
 
