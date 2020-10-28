@@ -1,4 +1,5 @@
 # StarMessage screensaver, version history
+StarMessage is a screensaver for Windows 10 and MacOS, showing the night sky, the moon phase and your messages written in the stars.  
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
