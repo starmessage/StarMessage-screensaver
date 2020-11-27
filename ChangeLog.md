@@ -3,6 +3,12 @@ StarMessage is a screensaver for Windows 10 and MacOS, showing the night sky, th
 All notable changes to this project will be documented in this file.  
 Read more on the [Screensaver website](https://www.starmessagesoftware.com/moonscreensaver).
 
+## [5.9.5] - 2020-11-26
+### Added
+- MacOS Big Sur: Support for ARM64 Apple Silicon M1.
+### Changed
+- Internal improvements in the night sky background of the screensaver.
+
 ## [5.9.4] - 2020-10-02
 ### Changed
 - Windows: minor modifications in the digitally signed screensaver and in the setup
